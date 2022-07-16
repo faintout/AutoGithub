@@ -45,11 +45,7 @@
 
 ## License
 
-[auto-green](https://github.com/AndersonHJB/AutoGreen) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
 
-
-
-![公众号：AI悦创.jpg](README.assets/公众号：AI悦创.jpg)
 
 
 ```
@@ -78,3 +74,5 @@ jobs:
           git commit --allow-empty -m "a commit a day keeps your girlfriend away"
           git push
 ```
+
+## mark
